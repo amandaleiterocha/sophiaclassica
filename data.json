@@ -1,0 +1,330 @@
+[
+  {
+    "nome": "A República de Platão - PLATÃO",
+    "descricao": "A República de Platão, obra escrita por volta de 380 a.C. ou 375 a.C, é fundamentalmente uma investigação sobre a Justiça. O texto demonstra que a Justiça não é apenas uma convenção social ou vantagem do mais forte, mas sim o estado de harmonia ideal alcançado quando cada parte (da alma individual ou da cidade) cumpre sua função natural.",
+    "link": "https://www.todamateria.com.br/republica-platao/",
+    "tags": [
+      "platão",
+      "república",
+      "justiça"
+    ]
+  },
+  {
+    "nome": "O Banquete - PLATÃO",
+    "descricao": "O Banquete, escrito por volta de 385 a.C. a 380 a.C, é um diálogo filosófico que investiga a natureza do Amor (Eros).",
+    "link": "https://www.culturagenial.com/livro-o-banquete/",
+    "tags": [
+      "platão",
+      "Banquete",
+      "amor",
+      "filosofia"
+    ]
+  },
+  {
+    "nome": "Ética a Nicômaco - ARISTÓTELES",
+    "descricao": "Nesta obra escrita entre 335 a.C. e 323 a.C, Aristóteles explora a natureza da felicidade (eudaimonia) e como alcançá-la através da prática das virtudes. A virtude é o caminho do meio, um equilíbrio entre dois extremos (vícios).",
+    "link": "https://www.infolivros.org/livro/etica-a-nicomaco-aristoteles/",
+    "tags": [
+      "Aristóteles",
+      "Ética",
+      "Nicómaco",
+      "virtude"
+    ]
+  },
+  {
+    "nome": "Metafísica - ARISTÓTELES",
+    "descricao": "Atribuída ao seu segundo período ateniense (o período do Liceu), entre 335 a.C. e 323 a.C, trata-se de uma investigação sobre o 'ser enquanto ser', buscando os princípios e as causas primeiras de toda a realidade. Aristóteles explora conceitos fundamentais como substância, essência, potência e ato.",
+    "link": "https://roendolivros.com/resumo-sobre-a-metafisica-de-aristoteles/",
+    "tags": [
+      "Aristóteles",
+      "Metafísica",
+      "substância",
+      "essência"
+    ]
+  },
+  {
+    "nome": "O Príncipe - MAQUIAVEL",
+    "descricao": "Embora tenha sido escrita em 1513, a obra só foi publicada postumamente (após a morte do autor) em 1532. Trata-se de um manual sobre a conquista e manutenção do poder político. Maquiavel argumenta que o governante (o príncipe) deve priorizar a estabilidade do Estado, utilizando os meios necessários para isso, mesmo que sejam considerados imorais.",
+    "link": "https://www.todamateria.com.br/o-principe-de-maquiavel/",
+    "tags": [
+      "maquiavel",
+      "principe"
+    ]
+  },
+  {
+    "nome": "Crítica da Razão Pura",
+    "descricao": "Escrito por Immanuel Kant em 1781, este livro é a pedra angular da filosofia moderna, investigando as condições de possibilidade do conhecimento e estabelecendo os limites entre o que podemos saber (mundo fenomênico) e o que não podemos (mundo noumênico).",
+    "link": "https://pt.wikipedia.org/wiki/Cr%C3%ADtica_da_Raz%C3%A3o_Pura",
+    "tags": [
+      "epistemologia",
+      "metafísica",
+      "idealismo transcendental",
+      "juízos sintéticos a priori"
+    ]
+  },
+  {
+    "nome": "Meditações Metafísicas",
+    "descricao": "Obra de René Descartes, publicada em 1641, na qual o autor busca estabelecer um fundamento sólido e indubitável para todo o conhecimento através do método da dúvida hiperbólica, culminando no famoso 'Cogito, ergo sum'.",
+    "link": "https://pt.wikipedia.org/wiki/Medita%C3%A7%C3%B5es_Metaf%C3%ADsicas",
+    "tags": [
+      "racionalismo",
+      "existência de Deus",
+      "dúvida metódica",
+      "fundacionalismo"
+    ]
+  },
+  {
+    "nome": "Leviatã",
+    "descricao": "Escrito por Thomas Hobbes e publicado em 1651, este tratado aborda a estrutura da sociedade e do governo legítimo. Introduz os conceitos de 'estado de natureza', 'guerra de todos contra todos' e a necessidade de um 'Contrato Social' para justificar um poder soberano absoluto.",
+    "link": "https://pt.wikipedia.org/wiki/Leviat%C3%A3",
+    "tags": [
+      "filosofia política",
+      "contratualismo",
+      "soberania",
+      "estado de natureza"
+    ]
+  },
+  {
+    "nome": "Tratado da Natureza Humana",
+    "descricao": "Principal obra de David Hume, escrita entre 1739 e 1740, que busca aplicar o método experimental de raciocínio aos assuntos morais. Questiona a causalidade e a indução como base racional, argumentando que são baseadas no hábito e na crença.",
+    "link": "https://pt.wikipedia.org/wiki/Tratado_da_Natureza_Humana",
+    "tags": [
+      "empirismo",
+      "ceticismo",
+      "causalidade",
+      "psicologia moral"
+    ]
+  },
+  {
+    "nome": "Ensaio Sobre o Entendimento Humano",
+    "descricao": "Publicado por John Locke em 1689, esta obra é fundamental para o empirismo. Argumenta que a mente humana é uma 'tábula rasa' e que todas as ideias derivam da experiência, seja ela sensação ou reflexão.",
+    "link": "https://pt.wikipedia.org/wiki/Ensaio_Sobre_o_Entendimento_Humano",
+    "tags": [
+      "empirismo",
+      "teoria do conhecimento",
+      "tabula rasa",
+      "ideias simples e complexas"
+    ]
+  },
+  {
+    "nome": "O Contrato Social",
+    "descricao": "Escrito por Jean-Jacques Rousseau e publicado em 1762, examina os princípios do direito político, propondo que a autoridade legítima se baseia na 'vontade geral' da sociedade, garantindo a liberdade civil e a igualdade.",
+    "link": "https://pt.wikipedia.org/wiki/O_Contrato_Social",
+    "tags": [
+      "filosofia política",
+      "contratualismo",
+      "vontade geral",
+      "liberdade civil"
+    ]
+  },
+  {
+    "nome": "Fenomenologia do Espírito",
+    "descricao": "Obra seminal de G.W.F. Hegel, publicada em 1807. Trata-se de uma jornada do Espírito (Geist) desde a consciência sensorial mais simples até o 'Saber Absoluto', explorando a dialética do senhor e do escravo e o desenvolvimento histórico da razão.",
+    "link": "https://pt.wikipedia.org/wiki/Fenomenologia_do_Esp%C3%ADrito",
+    "tags": [
+      "idealismo alemão",
+      "dialética",
+      "consciência",
+      "história da filosofia"
+    ]
+  },
+  {
+    "nome": "Assim Falou Zaratustra",
+    "descricao": "Escrito por Friedrich Nietzsche entre 1883 e 1885, este livro utiliza o profeta Zaratustra para expor ideias como a 'morte de Deus', o 'Übermensch' (Além-Homem) e o 'Eterno Retorno', desafiando a moralidade ocidental tradicional.",
+    "link": "https://pt.wikipedia.org/wiki/Assim_Falou_Zaratustra",
+    "tags": [
+      "niilismo",
+      "além-homem",
+      "eterno retorno",
+      "ética"
+    ]
+  },
+  {
+    "nome": "O Ser e o Tempo",
+    "descricao": "Publicado por Martin Heidegger em 1927, é o ponto de partida do existencialismo e da fenomenologia contemporâneos. Investiga a questão do significado do Ser (Sein) através da análise da existência humana, o Dasein (ser-aí).",
+    "link": "https://pt.wikipedia.org/wiki/Ser_e_Tempo",
+    "tags": [
+      "ontologia",
+      "existencialismo",
+      "fenomenologia",
+      "Dasein"
+    ]
+  },
+  {
+    "nome": "O Segundo Sexo",
+    "descricao": "Escrito por Simone de Beauvoir e publicado em 1949, esta obra é um texto fundador do feminismo. Analisa a condição da mulher através da perspectiva existencialista, cunhando a famosa frase: 'Não se nasce mulher, torna-se mulher'.",
+    "link": "https://pt.wikipedia.org/wiki/O_Segundo_Sexo",
+    "tags": [
+      "feminismo",
+      "existencialismo",
+      "gênero",
+      "ética da alteridade"
+    ]
+  },
+  {
+    "nome": "Sobre a Liberdade",
+    "descricao": "Publicado em 1859 por John Stuart Mill, é a principal defesa do utilitarismo e do liberalismo individual. Defende o 'princípio do dano' (harm principle), segundo o qual o único propósito para o qual o poder pode ser exercido é para impedir o dano a outros.",
+    "link": "https://pt.wikipedia.org/wiki/Sobre_a_Liberdade",
+    "tags": [
+      "liberalismo",
+      "utilitarismo",
+      "liberdade individual",
+      "ética política"
+    ]
+  },
+  {
+    "nome": "Confissões",
+    "descricao": "Escrito por Santo Agostinho por volta de 397-400 d.C., esta obra é uma autobiografia espiritual e teológica. Narra sua juventude e conversão ao cristianismo, explorando temas como o tempo, a memória, o livre-arbítrio e o pecado original.",
+    "link": "https://pt.wikipedia.org/wiki/Confiss%C3%B5es",
+    "tags": [
+      "filosofia medieval",
+      "teologia",
+      "memória",
+      "tempo"
+    ]
+  },
+  {
+    "nome": "Suma Teológica",
+    "descricao": "Obra inacabada de São Tomás de Aquino, escrita entre 1265 e 1274. Busca conciliar a razão aristotélica com a fé cristã, estabelecendo a base da filosofia escolástica e apresentando as famosas 'Cinco Vias' para provar a existência de Deus.",
+    "link": "https://pt.wikipedia.org/wiki/Suma_Teol%C3%B3gica",
+    "tags": [
+      "escolástica",
+      "teologia",
+      "razão e fé",
+      "cinco vias"
+    ]
+  },
+  {
+    "nome": "Novum Organum",
+    "descricao": "Publicado por Francis Bacon em 1620, propõe uma nova lógica para a ciência, substituindo o Organon aristotélico. Defende o método indutivo e experimental como caminho para o conhecimento, e critica os 'Ídolos' que obscurecem o julgamento humano.",
+    "link": "https://pt.wikipedia.org/wiki/Novum_Organum",
+    "tags": [
+      "empirismo",
+      "método científico",
+      "indução",
+      "ídolos da mente"
+    ]
+  },
+  {
+    "nome": "Princípios da Filosofia",
+    "descricao": "Escrito por René Descartes e publicado em 1644, visa sistematizar a totalidade do conhecimento em quatro partes, começando com os princípios da metafísica e estendendo-se para a física do universo, baseada em seu dualismo substancial.",
+    "link": "https://pt.wikipedia.org/wiki/Princ%C3%ADpios_da_Filosofia",
+    "tags": [
+      "racionalismo",
+      "dualismo",
+      "metafísica",
+      "física cartesiana"
+    ]
+  },
+  {
+    "nome": "Monadologia",
+    "descricao": "Trabalho breve, porém crucial, de Gottfried Wilhelm Leibniz, escrito em 1714. Expõe sua teoria metafísica das Mônadas: substâncias simples, inextensas, que formam o universo e estão em harmonia preestabelecida por Deus.",
+    "link": "https://pt.wikipedia.org/wiki/Monadologia",
+    "tags": [
+      "metafísica",
+      "racionalismo",
+      "substância",
+      "harmonia preestabelecida"
+    ]
+  },
+  {
+    "nome": "Enéadas",
+    "descricao": "Compilação dos escritos de Plotino, organizados por Porfírio por volta de 270 d.C., esta é a obra fundamental do Neoplatonismo. Descreve a emanação do Ser a partir do 'Uno' e o caminho místico de retorno à Fonte.",
+    "link": "https://pt.wikipedia.org/wiki/En%C3%A9adas",
+    "tags": [
+      "neoplatonismo",
+      "metafísica",
+      "o uno",
+      "misticismo"
+    ]
+  },
+  {
+    "nome": "O Mito de Sísifo",
+    "descricao": "Ensaio filosófico de Albert Camus, publicado em 1942, que introduz o conceito de Absurdo. Analisa a relação entre o desejo humano de sentido e o silêncio irracional do universo, propondo o suicídio, a fé ou a revolta como respostas possíveis.",
+    "link": "https://pt.wikipedia.org/wiki/O_Mito_de_S%C3%ADsifo",
+    "tags": [
+      "existencialismo",
+      "absurdo",
+      "suicídio filosófico",
+      "liberdade"
+    ]
+  },
+  {
+    "nome": "Vigiar e Punir",
+    "descricao": "Publicado por Michel Foucault em 1975, analisa a transição das formas punitivas (do suplício à prisão) e explora as relações de poder e saber, introduzindo conceitos como 'panóptico' e 'poder disciplinar'.",
+    "link": "https://pt.wikipedia.org/wiki/Vigiar_e_Punir",
+    "tags": [
+      "filosofia política",
+      "genealogia",
+      "poder disciplinar",
+      "saber"
+    ]
+  },
+  {
+    "nome": "Temor e Tremor",
+    "descricao": "Escrito por Søren Kierkegaard em 1843 (sob pseudônimo), este texto explora a história bíblica de Abraão e Isaque para investigar o conflito entre a ética universal e o teleológico suspenso pela fé, focando no indivíduo solitário.",
+    "link": "https://pt.wikipedia.org/wiki/Temor_e_Tremor",
+    "tags": [
+      "existencialismo",
+      "fé",
+      "ética",
+      "o indivíduo"
+    ]
+  },
+  {
+    "nome": "A Gaia Ciência",
+    "descricao": "Obra de Friedrich Nietzsche, publicada em 1882, notável por introduzir a ideia do 'Eterno Retorno' e, mais crucialmente, a proclamação da 'morte de Deus', explorando as consequências culturais e morais deste evento.",
+    "link": "https://pt.wikipedia.org/wiki/A_Gaia_Ci%C3%AAncia",
+    "tags": [
+      "niilismo",
+      "morte de deus",
+      "vontade de poder",
+      "moralidade"
+    ]
+  },
+  {
+    "nome": "Tractatus Logico-Philosophicus",
+    "descricao": "Escrito por Ludwig Wittgenstein e publicado em 1921, propõe que a filosofia deve ser entendida como uma atividade de esclarecimento lógico. Apresenta a 'Teoria Pictórica da Linguagem', estabelecendo os limites do que pode ser dito e pensado de forma significativa.",
+    "link": "https://pt.wikipedia.org/wiki/Tractatus_Logico-Philosophicus",
+    "tags": [
+      "filosofia da linguagem",
+      "lógica",
+      "positivismo lógico",
+      "limites da linguagem"
+    ]
+  },
+  {
+    "nome": "Sobre a Brevidade da Vida",
+    "descricao": "Escrito pelo filósofo estoico Sêneca por volta de 49 d.C., argumenta que a vida não é curta, mas desperdiçada pela maioria das pessoas. Enfatiza a importância de usar o tempo para o autoconhecimento e a prática da virtude.",
+    "link": "https://pt.wikipedia.org/wiki/Sobre_a_Brevidade_da_Vida",
+    "tags": [
+      "estoicismo",
+      "ética",
+      "tempo",
+      "virtude"
+    ]
+  },
+  {
+    "nome": "O Capital (Volume I)",
+    "descricao": "Obra fundamental de Karl Marx, publicada em 1867. Analisa criticamente o modo de produção capitalista, explorando os conceitos de mercadoria, mais-valia, fetichismo da mercadoria e a dialética histórica do capital.",
+    "link": "https://pt.wikipedia.org/wiki/O_Capital",
+    "tags": [
+      "filosofia social",
+      "economia política",
+      "materialismo histórico",
+      "mais-valia"
+    ]
+  },
+  {
+    "nome": "Epinomis",
+    "descricao": "Diálogo que tradicionalmente completa a discussão das Leis de Platão (embora a autoria seja disputada, sendo frequentemente atribuída a Filipe de Opunte, Século IV a.C.). Discute o papel da astronomia e da matemática na aquisição da verdadeira sabedoria (sophia).",
+    "link": "https://pt.wikipedia.org/wiki/Epinomis",
+    "tags": [
+      "cosmologia",
+      "sabedoria",
+      "matemática",
+      "filosofia antiga"
+    ]
+  }
+]
+
